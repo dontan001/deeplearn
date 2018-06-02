@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Attention_is_All_You_Need/.idea/Attention_is_All_You_Need.iml" filepath="$PROJECT_DIR$/../Attention_is_All_You_Need/.idea/Attention_is_All_You_Need.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/deeplearn.iml" filepath="$PROJECT_DIR$/.idea/deeplearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_NER/.idea/deeplearn_NER.iml" filepath="$PROJECT_DIR$/../deeplearn_NER/.idea/deeplearn_NER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_SSD/.idea/deeplearn_SSD.iml" filepath="$PROJECT_DIR$/../deeplearn_SSD/.idea/deeplearn_SSD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_Seq2Seq_Chatbot/.idea/deeplearn_Seq2Seq_Chatbot.iml" filepath="$PROJECT_DIR$/../deeplearn_Seq2Seq_Chatbot/.idea/deeplearn_Seq2Seq_Chatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_chunking/.idea/deeplearn_chunking.iml" filepath="$PROJECT_DIR$/../deeplearn_chunking/.idea/deeplearn_chunking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_face/.idea/deeplearn_face.iml" filepath="$PROJECT_DIR$/../deeplearn_face/.idea/deeplearn_face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearn_mail/.idea/deeplearn_mail.iml" filepath="$PROJECT_DIR$/../deeplearn_mail/.idea/deeplearn_mail.iml" />
+    </modules>
+  </component>
+</project>
